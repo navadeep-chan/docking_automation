@@ -1,0 +1,7 @@
+name: docking_automation
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.12
